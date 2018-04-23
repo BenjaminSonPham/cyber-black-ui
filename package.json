@@ -41,7 +41,7 @@
   "name": "cyber-black-ui",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BenjaminSonPham/cyber-black-ui.git"
+    "url": "https://github.com/BenjaminSonPham/cyber-black-ui.git"
   },
   "theme": "ui",
   "version": "0.6.0",
