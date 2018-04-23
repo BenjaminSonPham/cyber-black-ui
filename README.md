@@ -1,6 +1,6 @@
 ## Cyber Black
 
-Cyber Black is flat, dark & minimal theme. Inspired by Cyber terminal.
+Cyber Black is flat, dark & minimal theme. Inspired by black terminal.
 
 ### Install
 
